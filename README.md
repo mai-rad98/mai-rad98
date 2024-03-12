@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🔭 Currently, I'm immersing myself in mastering ReactJS to deepen my understanding of frontend development and enhance user interfaces.<br><br>👯 I'm actively seeking collaboration opportunities on any JavaScript project, eager to contribute my skills and learn from fellow developers in a collaborative environment.<br><br>🌱 I'm delving into the MERN stack, learning MongoDB, Express.js, React, and Node.js to broaden my expertise in full-stack web development.<br><br>⚡ One fun fact about me is that I'm an avid puzzle enthusiast, whether it's solving Rubik's cubes or tackling complex coding challenges, I love the thrill of problem-solving in various forms.
+<br><br>🔭 Currently, I'm immersing myself in mastering ReactJS to deepen my understanding of frontend development and enhance user interfaces.<br><br>👯 I'm actively seeking collaboration opportunities on any JavaScript project, eager to contribute my skills and learn from fellow developers in a collaborative environment.<br><br>🌱 I'm delving into the MERN stack, learning MongoDB, Express.js, React, and Node.js to broaden my expertise in full-stack web development.<br><br>⚡ One fun fact about me is that I love the thrill of problem-solving in various forms.
 
 
 ## 🌐 Socials:
